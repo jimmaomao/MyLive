@@ -1,0 +1,9 @@
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\MyLive.DAL.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\MyLive.DAL.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\obj\Debug\MyLive.DAL.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\obj\Debug\MyLive.DAL.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\obj\Debug\MyLive.DAL.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\MyLive.IDAL.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\MyLive.Models.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\MyLive.IDAL.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\MyLive.Models.pdb

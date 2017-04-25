@@ -1,0 +1,7 @@
+F:\visual studio 2015\Projects\MyLive\MyLive.IBLL\bin\Debug\MyLive.IBLL.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.IBLL\bin\Debug\MyLive.IBLL.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive.IBLL\obj\Debug\MyLive.IBLL.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\MyLive\MyLive.IBLL\obj\Debug\MyLive.IBLL.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.IBLL\obj\Debug\MyLive.IBLL.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive.IBLL\bin\Debug\MyLive.Models.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.IBLL\bin\Debug\MyLive.Models.pdb

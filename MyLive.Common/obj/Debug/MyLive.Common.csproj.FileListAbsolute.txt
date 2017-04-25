@@ -1,0 +1,5 @@
+F:\visual studio 2015\Projects\MyLive\MyLive.Common\bin\Debug\MyLive.Common.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.Common\bin\Debug\MyLive.Common.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive.Common\obj\Debug\MyLive.Common.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.Common\obj\Debug\MyLive.Common.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive.Common\obj\Debug\MyLive.Common.csprojResolveAssemblyReference.cache

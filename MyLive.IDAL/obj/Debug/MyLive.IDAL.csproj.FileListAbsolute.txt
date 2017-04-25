@@ -1,0 +1,7 @@
+F:\visual studio 2015\Projects\MyLive\MyLive.IDAL\bin\Debug\MyLive.IDAL.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.IDAL\bin\Debug\MyLive.IDAL.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive.IDAL\obj\Debug\MyLive.IDAL.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.IDAL\obj\Debug\MyLive.IDAL.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive.IDAL\bin\Debug\MyLive.Models.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.IDAL\bin\Debug\MyLive.Models.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive.IDAL\obj\Debug\MyLive.IDAL.csprojResolveAssemblyReference.cache
