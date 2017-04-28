@@ -40,7 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="InterfaceBaseService.cs" />
+    <Compile Include="InterfaceUserConfigService.cs" />
+    <Compile Include="InterfaceUserGroupService.cs" />
+    <Compile Include="InterfaceUserService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

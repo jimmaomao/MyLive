@@ -3,3 +3,10 @@ F:\visual studio 2015\Projects\MyLive\MyLive.Models\bin\Debug\MyLive.Models.pdb
 F:\visual studio 2015\Projects\MyLive\MyLive.Models\obj\Debug\MyLive.Models.dll
 F:\visual studio 2015\Projects\MyLive\MyLive.Models\obj\Debug\MyLive.Models.pdb
 F:\visual studio 2015\Projects\MyLive\MyLive.Models\obj\Debug\MyLive.Models.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\MyLive\MyLive.Models\bin\Debug\MyLive.Models.dll.config
+F:\visual studio 2015\Projects\MyLive\MyLive.Models\bin\Debug\EntityFramework.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.Models\bin\Debug\EntityFramework.xml
+F:\visual studio 2015\Projects\MyLive\MyLive.Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\visual studio 2015\Projects\MyLive\MyLive.Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.Models\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll

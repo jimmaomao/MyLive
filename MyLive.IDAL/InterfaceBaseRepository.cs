@@ -62,7 +62,7 @@ namespace MyLive.IDAL
         /// <param name="isAsc">是否升序</param>
         /// <param name="orderLambda">排序表达式</param>
         /// <returns></returns>
-        IQueryable<T> FindList<S>(Expression<Func<T, bool>> whereLambda, bool isAsc, Expression<Func<T, S>> orderLambda);
+        IQueryable<T> FindList(Expression<Func<T, bool>> whereLambda, string orderName, bool isAsc);
 
         /// <summary>
         /// 查找分页数据列表
@@ -75,7 +75,7 @@ namespace MyLive.IDAL
         /// <param name="isAsc">是否升序</param>
         /// <param name="orderLambda">排序表达式</param>
         /// <returns></returns>
-        IQueryable<T> FindList<S>(int pageIndex, int pageSize, out int totalRecord, Expression<Func<T, bool>> wherLambda, bool isAsc, Expression<Func<T, S>> orderLambda);
+        IQueryable<T> FindPageList(int pageIndex, int pageSize, out int totalRecord, Expression<Func<T, bool>> wherLambda, string orderName, bool isAsc);
 
 
 

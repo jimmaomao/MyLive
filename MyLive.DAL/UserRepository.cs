@@ -1,12 +1,13 @@
-﻿using System;
+﻿using MyLive.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using MyLive.IDAL;
 namespace MyLive.DAL
 {
-    public class Class1
+    class UserRepository : BaseRepository<T_User>, InterfaceUserRepository
     {
     }
 }

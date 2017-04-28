@@ -94,3 +94,7 @@ F:\visual studio 2015\Projects\MyLive\MyLive\bin\MyLive.BLL.pdb
 F:\visual studio 2015\Projects\MyLive\MyLive\bin\MyLive.Common.pdb
 F:\visual studio 2015\Projects\MyLive\MyLive\bin\MyLive.IBLL.pdb
 F:\visual studio 2015\Projects\MyLive\MyLive\bin\MyLive.Models.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive\bin\MyLive.IDAL.dll
+F:\visual studio 2015\Projects\MyLive\MyLive\bin\MyLive.DAL.dll
+F:\visual studio 2015\Projects\MyLive\MyLive\bin\MyLive.IDAL.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive\bin\MyLive.DAL.pdb

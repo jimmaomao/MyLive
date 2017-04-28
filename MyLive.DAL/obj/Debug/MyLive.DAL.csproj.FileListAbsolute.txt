@@ -7,3 +7,10 @@ F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\MyLive.IDAL.dll
 F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\MyLive.Models.dll
 F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\MyLive.IDAL.pdb
 F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\MyLive.Models.pdb
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\MyLive.DAL.dll.config
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\EntityFramework.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\EntityFramework.xml
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\visual studio 2015\Projects\MyLive\MyLive.DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
