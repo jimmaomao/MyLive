@@ -62,7 +62,7 @@ namespace MyLive.Models
         public bool RememberMe { get; set; }
     }
 
-    public class RegisterViewModel
+    public class RegisterViewModel1
     {
         [Required]
         [EmailAddress]

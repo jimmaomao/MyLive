@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MyLive.Models;
-namespace MyLive.IDAL
+using MyLive.IDAL;
+namespace MyLive.DAL
 {
-    public interface InterfaceUserGroupRepository : InterfaceBaseRepository<T_UserGroup>
+    class RoleRepository : BaseRepository<T_Role>, InterfaceRoleRepository
     {
     }
 }

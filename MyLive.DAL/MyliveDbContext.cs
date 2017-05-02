@@ -25,7 +25,9 @@
 
         public DbSet<T_User> Users { get; set; }
 
-        public DbSet<T_UserGroup> UserGroups { get; set; }
+        public DbSet<T_Role> Roles { get; set; }
+
+        public DbSet<T_UserRoleRelation> UserRoleRelations { get; set; }
 
         public DbSet<T_UserConfig> UserConfig { get; set; }
     }

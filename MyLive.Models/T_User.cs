@@ -72,11 +72,5 @@ namespace MyLive.Models
         /// 上次登陆ip
         /// </summary>
         public string LoginIp { get; set; }
-
-        [Required(ErrorMessage = "必填")]
-        [Display(Name = "用户组ID")]
-        public int GroupID { get; set; }
-
-        public virtual T_UserGroup Group { get; set; }
     }
 }

@@ -42,7 +42,7 @@
   <ItemGroup>
     <Compile Include="InterfaceBaseService.cs" />
     <Compile Include="InterfaceUserConfigService.cs" />
-    <Compile Include="InterfaceUserGroupService.cs" />
+    <Compile Include="InterfaceRoleService.cs" />
     <Compile Include="InterfaceUserService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -27,11 +27,11 @@ namespace MyLive.DAL
         /// <summary>
         /// 用户组
         /// </summary>
-        public static InterfaceUserGroupRepository UserGroupRepository
+        public static InterfaceRoleRepository RoleRepository
         {
             get
             {
-                return new UserGroupRepository();
+                return new RoleRepository();
             }
         }
 

@@ -42,7 +42,7 @@
   <ItemGroup>
     <Compile Include="InterfaceBaseRepository.cs" />
     <Compile Include="InterfaceUserConfigRepository.cs" />
-    <Compile Include="InterfaceUserGroupRepository.cs" />
+    <Compile Include="InterfaceRoleRepository.cs" />
     <Compile Include="InterfaceUserRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
