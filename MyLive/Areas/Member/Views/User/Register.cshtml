@@ -57,7 +57,7 @@
             @Html.LabelFor(model => model.VerificationCode, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                 @Html.EditorFor(model => model.VerificationCode)
-                <img id="verifivationcode" title="点击刷新" src="@Url.Action("VerificationCode")" style="cursor:pointer;" />
+                <img id="verifivationcode" title="点击刷新" src="@Url.Action("VerificationCode")" style="cursor:pointer;"/>
                 @Html.ValidationMessageFor(model=>model.VerificationCode)
             </div>
         </div>
